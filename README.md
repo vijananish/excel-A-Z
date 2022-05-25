@@ -38,22 +38,26 @@ A Function that searches for a certain values in a column to return a correspond
 =VLOOKUP(value, table array, column_index_num, true/false)
 True: Approximate Ma tch
 False: Exact Match
+![alt text](https://cdn.extendoffice.com/images/stories/doc-excel/excel-vlookup-function/doc-vlookup-function-1.png)
 
 ### 2. Hlook Up
 A Function that searches for a certain values in a row to return a corresponding piece of information.
 =HLOOKUP(value, table array, row_num, true/false)
 True: Approximate Match
 False: Exact Match
-
+![alt text](https://cdn.extendoffice.com/images/stories/excel-functions/hlookup-function/doc-hlookup-function-1.png)
 
 ## CONDITIONAL FORMATTING
 How the cell looks when value meets specific condition.
 Icon Set
 Arrow Explanation: by default, for 3 icons, Excel calculates the 67th percent and 33th percent. 67th percent = min + 0.67 * (max-min) = 2 + 0.67 * (95-2) = 64.31. 33th percent = min + 0.33 * (max-min) = 2 + 0.33 * (95-2) = 32.69.  A green arrow will show for values equal to or greater than 64.31. A yellow arrow will show for values less than 64.31 and equal to or greater than 32.69. A red arrow will show for values less than 32.69.
+![alt text](https://cdn.educba.com/academy/wp-content/uploads/2019/03/Conditional-Formatting-For-Blank-Cells.png)
 
 ## DATA VALIDATION
 Allows one to control what can and cannot be entered.
+![alt text](https://www.customguide.com/images/lessons/excel-2019/excel-2019--data-validation--01.png)
 
 ## PIVOT TABLES
 A table used to sort, count, group, total or reorganize data stored in table. It helps us change rows into columns and column into rows.
 It can be grouped and perform advance calculations on them.
+![alt text](https://www.iaao.org/education/online/809/tutorials/PivotTables/SelectPivotTable.jpg)
